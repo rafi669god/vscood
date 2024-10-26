@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-family: initial;
+    color: blue;
+}
+h3{
+    text-align: center;
+    color: aqua;
+}
+body{
+    background-color: black;
+}
+#p1{
+    text-align: center;
+    color: aqua; 
+    font-size: 10em;   
+}
+label{
+   color: blue;
+}
+#btn1{
+    font: size 3em; 
+    color: aqua;
+    background-color: black;
+
+}
